@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D61D-EF46
+
+ Directory of C:\Maciej\GIT\NewProject
+
+22.11.2021  13:26    <DIR>          .
+22.11.2021  13:26    <DIR>          ..
+22.11.2021  13:26                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  89ÿ661ÿ079ÿ552 bytes free
